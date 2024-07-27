@@ -9,7 +9,7 @@ I'm a FrontEnd Developer with experience in JavaScript, React, Next.js. I love w
 Currently, I'm focusing on:  
 - Web Development  
 - Building a personal portfolio website to showcase my projects and skills  
-- Exploring modern frameworks like React and Vue.js to enhance my development capabilities 
+- Exploring modern frameworks like React and Next.js to enhance my development capabilities 
 
 ## 💼 Projects  
 
